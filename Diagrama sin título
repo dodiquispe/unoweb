@@ -1,0 +1,27 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="L3UVunVdSwIkYJEhrk5U">
+    <mxGraphModel dx="967" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="Paciente" Paciente="&#xa;" id="XqFqKt1_O3Af9IVSwruU-1">
+          <mxCell parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1">
+            <mxGeometry height="60" width="30" x="140" y="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="JyG9ltqpGBf4YpAr1OKb-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=vert;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" value="" vertex="1">
+          <mxGeometry height="220" width="290" x="270" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JyG9ltqpGBf4YpAr1OKb-4" edge="1" parent="1" source="XqFqKt1_O3Af9IVSwruU-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="JyG9ltqpGBf4YpAr1OKb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JyG9ltqpGBf4YpAr1OKb-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Registrar datos personales" vertex="1">
+          <mxGeometry height="60" width="130" x="330" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="JyG9ltqpGBf4YpAr1OKb-6" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="sistema web" vertex="1">
+          <mxGeometry height="26" width="80" x="360" y="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
